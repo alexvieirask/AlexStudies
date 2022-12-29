@@ -1,6 +1,6 @@
 # Alex Studies: Projeto Alura
 
-Este projeto foi desenvolvido com a finalidade de aprimorar os conhecimentos relativo ao ReactJS. Alex Studies é uma aplicação simples de gerenciamento de tarefas. Cada tarefa possui um tempo de realização para que o contador possa fazer a marcação da conclusão da mesma.
+Este projeto foi desenvolvido com a finalidade de aprimorar os conhecimentos relativo ao ReactJS e introduzir o Typescript. Alex Studies é uma aplicação simples de gerenciamento de tarefas. Cada tarefa possui um tempo de realização para que o contador possa fazer a marcação da conclusão da mesma.
 
 Segue o resultado abaixo:
 
